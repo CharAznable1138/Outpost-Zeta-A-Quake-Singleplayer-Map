@@ -10296,7 +10296,7 @@
 "angle" "270"
 "alpha" "0.75"
 "targetname" "boss"
-"message" "The Supersoldier has been unleashed..."
+"message" ""
 // brush 0
 {
 ( -1004 760 96 ) ( -1004 760 97 ) ( -1004 759 96 ) 128_cyan_1 -72 80 180 1 -1
