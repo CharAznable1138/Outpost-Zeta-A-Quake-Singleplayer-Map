@@ -10942,7 +10942,7 @@
 {
 "classname" "trigger_once"
 "target" "bossroomenemies"
-"message" "You have found the Supersoldier's chamber..."
+"message" "You have found\nthe Supersoldier's chamber..."
 "sounds" "0"
 // brush 0
 {
@@ -11017,7 +11017,7 @@
 "origin" "-988 776 216"
 "targetname" "endrelay"
 "target" "enddoor"
-"message" "The Supersoldier has been defeated."
+"message" "The Supersoldier has been defeated.\nGood job."
 }
 // entity 187
 {
