@@ -4,6 +4,9 @@
 # But not these files...
 !.gitignore
 
+# Allow images folder
+!images/*
+
 # etc...
 
 # ...even if they are in subdirectories
