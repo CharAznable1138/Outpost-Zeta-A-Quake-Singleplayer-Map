@@ -7919,6 +7919,7 @@
 "classname" "func_door"
 "angle" "270"
 "wait" "1"
+"sounds" "3"
 // brush 0
 {
 ( 8 232 88 ) ( 8 233 88 ) ( 8 232 89 ) 128_brown_3 40 104 90 1 -1
@@ -7934,6 +7935,7 @@
 "classname" "func_door"
 "angle" "180"
 "wait" "1.5"
+"sounds" "3"
 // brush 0
 {
 ( 488 160 24 ) ( 488 161 24 ) ( 488 160 25 ) 128_brown_3 40 16 90 1 -1
