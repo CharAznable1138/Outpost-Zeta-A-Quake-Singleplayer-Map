@@ -4,6 +4,7 @@
 {
 "classname" "worldspawn"
 "wad" "C:/Users/maxic/Documents/GitHub/Outpost-Zeta-A-Quake-Singleplayer-Map/QuakeDev/wads/prototype_1_2.wad"
+"worldtype" "2"
 // brush 0
 {
 ( -64 -64 -16 ) ( -64 -63 -16 ) ( -64 -64 -15 ) 128_blue_2 0 0 0 1 1
@@ -11361,4 +11362,9 @@
 {
 "classname" "ambient_flouro_buzz"
 "origin" "2912 -608 544"
+}
+// entity 232
+{
+"classname" "item_health"
+"origin" "736 672 104"
 }
