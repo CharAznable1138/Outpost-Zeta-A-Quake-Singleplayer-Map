@@ -10855,13 +10855,13 @@
 {
 "classname" "item_health"
 "origin" "-376 432 104"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 172
 {
 "classname" "item_health"
 "origin" "-368 1056 104"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 173
 {
