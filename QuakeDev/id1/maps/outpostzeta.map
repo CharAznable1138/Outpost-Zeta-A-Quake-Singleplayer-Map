@@ -11863,7 +11863,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1567"
+"_tb_id" "1801"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11915,7 +11915,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1568"
+"_tb_id" "1802"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11967,7 +11967,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1569"
+"_tb_id" "1803"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -12019,7 +12019,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1570"
+"_tb_id" "1804"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -12071,7 +12071,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1571"
+"_tb_id" "1805"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12123,7 +12123,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1572"
+"_tb_id" "1806"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12175,7 +12175,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1573"
+"_tb_id" "1807"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12227,7 +12227,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1574"
+"_tb_id" "1808"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12279,7 +12279,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1575"
+"_tb_id" "1809"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12331,7 +12331,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1576"
+"_tb_id" "1810"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12383,7 +12383,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1577"
+"_tb_id" "1811"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12435,7 +12435,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1578"
+"_tb_id" "1812"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12487,7 +12487,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1579"
+"_tb_id" "1813"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12539,7 +12539,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1580"
+"_tb_id" "1814"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12591,7 +12591,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1581"
+"_tb_id" "1815"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12643,7 +12643,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1582"
+"_tb_id" "1816"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12695,7 +12695,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "1583"
+"_tb_id" "1817"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13200,7 +13200,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "1584"
+"_tb_id" "1818"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -14337,24 +14337,81 @@
 }
 // entity 333
 {
-"classname" "testplayerstart"
-"origin" "2800 -548 160"
-}
-// entity 334
-{
 "classname" "light"
 "origin" "2880 -536 208"
 "light" "250"
 }
-// entity 335
+// entity 334
 {
 "classname" "light"
 "origin" "2868 -292 208"
 "light" "250"
 }
-// entity 336
+// entity 335
 {
 "classname" "light"
 "origin" "2528 -248 240"
+"light" "250"
+}
+// entity 336
+{
+"classname" "light"
+"origin" "3024 -536 208"
+"light" "200"
+}
+// entity 337
+{
+"classname" "light"
+"origin" "3024 -536 392"
+"light" "125"
+}
+// entity 338
+{
+"classname" "light"
+"origin" "3024 -536 560"
+"light" "200"
+}
+// entity 339
+{
+"classname" "light_fluorospark"
+"origin" "2960 -592 536"
+"light" "50"
+"style" "10"
+}
+// entity 340
+{
+"classname" "light_fluorospark"
+"origin" "2912 -600 536"
+"light" "50"
+"style" "10"
+}
+// entity 341
+{
+"classname" "light"
+"origin" "2832 -544 576"
+"light" "250"
+}
+// entity 342
+{
+"classname" "testplayerstart"
+"origin" "2872 -488 528"
+"angle" "180"
+}
+// entity 343
+{
+"classname" "light"
+"origin" "2392 -536 584"
+"light" "250"
+}
+// entity 344
+{
+"classname" "light"
+"origin" "2264 -896 584"
+"light" "250"
+}
+// entity 345
+{
+"classname" "light"
+"origin" "2272 -192 584"
 "light" "250"
 }
