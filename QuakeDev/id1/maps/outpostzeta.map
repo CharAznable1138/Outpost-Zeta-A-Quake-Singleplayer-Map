@@ -11863,7 +11863,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2377"
+"_tb_id" "2845"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11915,7 +11915,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2378"
+"_tb_id" "2846"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11967,7 +11967,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2379"
+"_tb_id" "2847"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -12019,7 +12019,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2380"
+"_tb_id" "2848"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -12071,7 +12071,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2381"
+"_tb_id" "2849"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12123,7 +12123,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2382"
+"_tb_id" "2850"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12175,7 +12175,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2383"
+"_tb_id" "2851"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12227,7 +12227,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2384"
+"_tb_id" "2852"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12279,7 +12279,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2385"
+"_tb_id" "2853"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12331,7 +12331,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2386"
+"_tb_id" "2854"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12383,7 +12383,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2387"
+"_tb_id" "2855"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12435,7 +12435,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2388"
+"_tb_id" "2856"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12487,7 +12487,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2389"
+"_tb_id" "2857"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12539,7 +12539,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2390"
+"_tb_id" "2858"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12591,7 +12591,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2391"
+"_tb_id" "2859"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12643,7 +12643,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2392"
+"_tb_id" "2860"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12695,7 +12695,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "2393"
+"_tb_id" "2861"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13200,7 +13200,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "2394"
+"_tb_id" "2862"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -14624,4 +14624,126 @@
 "classname" "light"
 "origin" "992 -120 520"
 "light" "100"
+}
+// entity 381
+{
+"classname" "light"
+"origin" "1152 184 448"
+"light" "250"
+}
+// entity 382
+{
+"classname" "light"
+"origin" "840 488 448"
+"light" "250"
+}
+// entity 383
+{
+"classname" "light"
+"origin" "840 176 448"
+"light" "250"
+}
+// entity 384
+{
+"classname" "light"
+"origin" "840 800 448"
+"light" "250"
+}
+// entity 385
+{
+"classname" "light"
+"origin" "928 280 224"
+"light" "250"
+}
+// entity 386
+{
+"classname" "light"
+"origin" "1208 280 224"
+"light" "250"
+}
+// entity 387
+{
+"classname" "light"
+"origin" "1544 456 224"
+"light" "250"
+}
+// entity 388
+{
+"classname" "light"
+"origin" "1344 456 224"
+"light" "250"
+}
+// entity 389
+{
+"classname" "light"
+"origin" "1544 664 224"
+"light" "250"
+}
+// entity 390
+{
+"classname" "light"
+"origin" "1312 888 224"
+"light" "250"
+"angle" "270"
+}
+// entity 391
+{
+"classname" "light"
+"origin" "952 888 224"
+"light" "250"
+"angle" "270"
+}
+// entity 392
+{
+"classname" "light"
+"origin" "1136 888 224"
+"light" "200"
+"angle" "270"
+}
+// entity 393
+{
+"classname" "light"
+"origin" "944 592 224"
+"light" "250"
+"angle" "270"
+}
+// entity 394
+{
+"classname" "light"
+"origin" "1552 872 376"
+"light" "250"
+"angle" "270"
+}
+// entity 395
+{
+"classname" "light"
+"origin" "1496 552 464"
+"light" "350"
+"angle" "270"
+}
+// entity 396
+{
+"classname" "light"
+"origin" "1080 880 528"
+"light" "350"
+"angle" "270"
+}
+// entity 397
+{
+"classname" "light"
+"origin" "1464 872 584"
+"light" "300"
+"angle" "270"
+}
+// entity 398
+{
+"classname" "light"
+"origin" "1472 800 200"
+"light" "250"
+}
+// entity 399
+{
+"classname" "light"
+"origin" "1648 976 200"
+"light" "250"
 }
