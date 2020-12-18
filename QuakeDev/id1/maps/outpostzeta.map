@@ -9723,7 +9723,7 @@
 }
 // brush 21
 {
-( 2960 -624 168 ) ( 2960 -623 168 ) ( 2960 -624 169 ) __TB_empty 0 0 0 1 1
+( 2960 -624 168 ) ( 2960 -623 168 ) ( 2960 -624 169 ) metal1_3 64 -104 0 1 1
 ( 2960 -624 168 ) ( 2960 -624 169 ) ( 2961 -624 168 ) __TB_empty 56 0 0 1 1
 ( 2960 -624 168 ) ( 2961 -624 168 ) ( 2960 -623 168 ) __TB_empty 56 0 0 1 1
 ( 2968 -616 232 ) ( 2968 -615 232 ) ( 2969 -616 232 ) __TB_empty 56 0 0 1 1
@@ -9759,7 +9759,7 @@
 }
 // brush 25
 {
-( 2960 -584 240 ) ( 2960 -583 240 ) ( 2960 -584 241 ) __TB_empty 0 112 0 1 1
+( 2960 -584 240 ) ( 2960 -583 240 ) ( 2960 -584 241 ) metal1_3 64 -104 0 1 1
 ( 2944 -624 240 ) ( 2944 -624 241 ) ( 2945 -624 240 ) __TB_empty 0 112 0 1 1
 ( 2944 -584 232 ) ( 2945 -584 232 ) ( 2944 -583 232 ) metal1_3 64 -104 0 1 1
 ( 2952 -488 240 ) ( 2952 -487 240 ) ( 2953 -488 240 ) __TB_empty 0 0 0 1 1
@@ -9769,7 +9769,7 @@
 // brush 26
 {
 ( 2944 -528 232 ) ( 2944 -527 232 ) ( 2944 -528 233 ) __TB_empty 0 112 0 1 1
-( 2944 -584 232 ) ( 2944 -584 233 ) ( 2945 -584 232 ) __TB_empty 0 112 0 1 1
+( 2944 -584 232 ) ( 2944 -584 233 ) ( 2945 -584 232 ) metal1_3 64 -104 0 1 1
 ( 2944 -528 232 ) ( 2945 -528 232 ) ( 2944 -527 232 ) metal1_3 64 -104 0 1 1
 ( 2960 -512 240 ) ( 2960 -511 240 ) ( 2961 -512 240 ) __TB_empty 0 0 0 1 1
 ( 2960 -440 240 ) ( 2961 -440 240 ) ( 2960 -440 241 ) __TB_empty 0 112 0 1 1
@@ -10589,7 +10589,7 @@
 // entity 77
 {
 "classname" "monster_army"
-"origin" "776 -1072 160"
+"origin" "832 -1072 160"
 "angle" "270"
 "spawnflags" "1"
 "targetname" "computerenemies"
@@ -10597,10 +10597,11 @@
 // entity 78
 {
 "classname" "monster_army"
-"origin" "664 -1056 160"
-"angle" "270"
+"origin" "928 -968 160"
+"angle" "180"
 "spawnflags" "1"
 "targetname" "computerenemies"
+"target" "computerpath1"
 }
 // entity 79
 {
@@ -11738,7 +11739,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "703"
+"_tb_id" "793"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11790,7 +11791,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "704"
+"_tb_id" "794"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11842,7 +11843,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "705"
+"_tb_id" "795"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -11894,7 +11895,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "706"
+"_tb_id" "796"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -11946,7 +11947,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "707"
+"_tb_id" "797"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -11998,7 +11999,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "708"
+"_tb_id" "798"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12050,7 +12051,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "709"
+"_tb_id" "799"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12102,7 +12103,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "710"
+"_tb_id" "800"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12154,7 +12155,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "711"
+"_tb_id" "801"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12206,7 +12207,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "712"
+"_tb_id" "802"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12258,7 +12259,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "713"
+"_tb_id" "803"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12310,7 +12311,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "714"
+"_tb_id" "804"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12362,7 +12363,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "715"
+"_tb_id" "805"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12414,7 +12415,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "716"
+"_tb_id" "806"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12466,7 +12467,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "717"
+"_tb_id" "807"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12518,7 +12519,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "718"
+"_tb_id" "808"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12570,7 +12571,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "719"
+"_tb_id" "809"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13075,7 +13076,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "720"
+"_tb_id" "810"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -15132,4 +15133,18 @@
 "origin" "800 -320 16"
 "targetname" "firstenemypath2"
 "target" "firstenemypath1"
+}
+// entity 461
+{
+"classname" "path_corner"
+"origin" "912 -984 136"
+"targetname" "computerpath1"
+"target" "computerpath2"
+}
+// entity 462
+{
+"classname" "path_corner"
+"origin" "640 -984 136"
+"targetname" "computerpath2"
+"target" "computerpath1"
 }
