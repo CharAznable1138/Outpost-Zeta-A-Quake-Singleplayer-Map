@@ -9512,6 +9512,7 @@
 "target" "secretdoor1"
 "sounds" "3"
 "lip" "20"
+"_minlight" "40"
 // brush 0
 {
 ( 2093.625 -501.68870849898474 172 ) ( 2093.625 -501.68870849898474 171 ) ( 2092.9178932188138 -500.9816017177983 172 ) __TB_empty 0 0.505249 270 1 0.707107
@@ -9544,6 +9545,7 @@
 "targetname" "elevator1"
 "target" "elevatorfloor1"
 "sounds" "1"
+"_minlight" "40"
 // brush 0
 {
 ( 2960 -584 128 ) ( 2960 -583 128 ) ( 2960 -584 129 ) metal1_3 64 -104 0 1 1
@@ -10529,7 +10531,7 @@
 ( -1000 1512 256 ) ( -1000 1512 257 ) ( -1000 1511 256 ) wmet3_3 -8 48 180 1 -1
 ( -992 1232 384 ) ( -1000 1224 512 ) ( -1000 1224 384 ) wmet3_3 -8 48 180 1 -1
 ( -992 1136 264 ) ( -992 1136 265 ) ( -991 1136 264 ) wmet3_3 16 48 0 1 1
-( -1008 1512 352 ) ( -1008 1511 352 ) ( -1007 1512 352 ) __TB_empty 0 0 270 1 1
+( -1008 1512 352 ) ( -1008 1511 352 ) ( -1007 1512 352 ) wmet3_3 -8 48 180 1 -1
 ( -992 1416 384 ) ( -991 1416 384 ) ( -992 1415 384 ) wmet3_3 -8 -16 270 1 1
 ( -992 1416 264 ) ( -992 1415 264 ) ( -992 1416 265 ) wmet3_3 -8 48 180 1 -1
 }
@@ -11375,6 +11377,7 @@
 "target" "wardendoor"
 "sounds" "3"
 "angle" "90"
+"_minlight" "40"
 // brush 0
 {
 ( 2864 -256 176 ) ( 2864 -255 176 ) ( 2864 -256 177 ) plat_stem 224 176 0 0.5 0.5
@@ -11763,7 +11766,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "541"
+"_tb_id" "667"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11815,7 +11818,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "542"
+"_tb_id" "668"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11867,7 +11870,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "543"
+"_tb_id" "669"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -11919,7 +11922,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "544"
+"_tb_id" "670"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -11971,7 +11974,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "545"
+"_tb_id" "671"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12023,7 +12026,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "546"
+"_tb_id" "672"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12075,7 +12078,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "547"
+"_tb_id" "673"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12127,7 +12130,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "548"
+"_tb_id" "674"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12179,7 +12182,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "549"
+"_tb_id" "675"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12231,7 +12234,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "550"
+"_tb_id" "676"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12283,7 +12286,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "551"
+"_tb_id" "677"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12335,7 +12338,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "552"
+"_tb_id" "678"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12387,7 +12390,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "553"
+"_tb_id" "679"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12439,7 +12442,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "554"
+"_tb_id" "680"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12491,7 +12494,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "555"
+"_tb_id" "681"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12543,7 +12546,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "556"
+"_tb_id" "682"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12595,7 +12598,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "557"
+"_tb_id" "683"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13107,7 +13110,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "558"
+"_tb_id" "684"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -15159,28 +15162,28 @@
 // entity 459
 {
 "classname" "path_corner"
-"origin" "576 -320 16"
+"origin" "592 -304 40"
 "targetname" "firstenemypath1"
 "target" "firstenemypath2"
 }
 // entity 460
 {
 "classname" "path_corner"
-"origin" "800 -320 16"
+"origin" "816 -304 40"
 "targetname" "firstenemypath2"
 "target" "firstenemypath1"
 }
 // entity 461
 {
 "classname" "path_corner"
-"origin" "912 -984 136"
+"origin" "928 -968 160"
 "targetname" "computerpath1"
 "target" "computerpath2"
 }
 // entity 462
 {
 "classname" "path_corner"
-"origin" "640 -984 136"
+"origin" "656 -968 160"
 "targetname" "computerpath2"
 "target" "computerpath1"
 }
@@ -15245,7 +15248,7 @@
 // entity 473
 {
 "classname" "path_corner"
-"origin" "1992 -760 584"
+"origin" "2008 -744 608"
 "target" "cmdctrpath2"
 "targetname" "cmdctrpath1"
 }
@@ -15259,7 +15262,7 @@
 // entity 475
 {
 "classname" "path_corner"
-"origin" "1992 -344 584"
+"origin" "2008 -328 608"
 "target" "cmdctrpath1"
 "targetname" "cmdctrpath2"
 }
@@ -15346,10 +15349,4 @@
 "origin" "856 856 184"
 "targetname" "riverpath7"
 "target" "rivercounter"
-}
-// entity 488
-{
-"classname" "testplayerstart"
-"origin" "1048 -544 608"
-"angle" "90"
 }
