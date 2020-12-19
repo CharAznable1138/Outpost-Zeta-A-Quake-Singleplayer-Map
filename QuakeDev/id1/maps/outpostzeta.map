@@ -10953,15 +10953,15 @@
 // entity 121
 {
 "classname" "monster_ogre"
-"origin" "1232 176 376"
-"angle" "90"
+"origin" "1240 184 376"
+"angle" "180"
 "targetname" "riverenemies"
-"target" "rivercounter"
+"target" "riverpath3"
 }
 // entity 122
 {
 "classname" "monster_ogre"
-"origin" "840 704 376"
+"origin" "848 704 376"
 "angle" "270"
 "targetname" "riverenemies"
 "target" "riverpath1"
@@ -11178,18 +11178,18 @@
 // entity 148
 {
 "classname" "monster_ogre"
-"origin" "864 896 120"
+"origin" "888 888 120"
 "angle" "0"
 "targetname" "riverenemies"
-"target" "rivercounter"
+"target" "riverpath7"
 }
 // entity 149
 {
 "classname" "monster_ogre"
-"origin" "1560 736 120"
+"origin" "1560 680 120"
 "angle" "270"
 "targetname" "riverenemies"
-"target" "rivercounter"
+"target" "riverpath5"
 }
 // entity 150
 {
@@ -11763,7 +11763,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "361"
+"_tb_id" "541"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11815,7 +11815,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "362"
+"_tb_id" "542"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11867,7 +11867,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "363"
+"_tb_id" "543"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -11919,7 +11919,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "364"
+"_tb_id" "544"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -11971,7 +11971,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "365"
+"_tb_id" "545"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12023,7 +12023,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "366"
+"_tb_id" "546"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12075,7 +12075,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "367"
+"_tb_id" "547"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12127,7 +12127,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "368"
+"_tb_id" "548"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12179,7 +12179,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "369"
+"_tb_id" "549"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12231,7 +12231,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "370"
+"_tb_id" "550"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12283,7 +12283,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "371"
+"_tb_id" "551"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12335,7 +12335,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "372"
+"_tb_id" "552"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12387,7 +12387,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "373"
+"_tb_id" "553"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12439,7 +12439,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "374"
+"_tb_id" "554"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12491,7 +12491,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "375"
+"_tb_id" "555"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12543,7 +12543,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "376"
+"_tb_id" "556"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12595,7 +12595,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "377"
+"_tb_id" "557"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13107,7 +13107,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "378"
+"_tb_id" "558"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -15266,14 +15266,14 @@
 // entity 476
 {
 "classname" "path_corner"
-"origin" "808 672 352"
+"origin" "848 704 376"
 "targetname" "riverpath1"
 "target" "riverpath2"
 }
 // entity 477
 {
 "classname" "path_corner"
-"origin" "808 232 352"
+"origin" "848 264 376"
 "targetname" "riverpath2"
 "target" "riverpath1"
 }
@@ -15286,6 +15286,70 @@
 }
 // entity 479
 {
+"classname" "path_corner"
+"origin" "1240 184 376"
+"target" "riverpath4"
+"targetname" "riverpath3"
+}
+// entity 480
+{
+"classname" "path_corner"
+"origin" "928 184 376"
+"target" "riverpath3"
+"targetname" "riverpath4"
+}
+// entity 481
+{
+"classname" "trigger_relay"
+"origin" "1208 144 440"
+"targetname" "riverpath3"
+"target" "rivercounter"
+}
+// entity 482
+{
+"classname" "path_corner"
+"origin" "1560 680 120"
+"target" "riverpath6"
+"targetname" "riverpath5"
+}
+// entity 483
+{
+"classname" "path_corner"
+"origin" "1560 392 120"
+"target" "riverpath5"
+"targetname" "riverpath6"
+}
+// entity 484
+{
+"classname" "trigger_relay"
+"origin" "1528 648 184"
+"targetname" "riverpath5"
+"target" "rivercounter"
+}
+// entity 485
+{
+"classname" "path_corner"
+"origin" "888 888 120"
+"target" "riverpath8"
+"targetname" "riverpath7"
+}
+// entity 486
+{
+"classname" "path_corner"
+"origin" "1352 888 120"
+"target" "riverpath7"
+"targetname" "riverpath8"
+}
+// entity 487
+{
+"classname" "trigger_relay"
+"origin" "856 856 184"
+"targetname" "riverpath7"
+"target" "rivercounter"
+}
+// entity 488
+{
 "classname" "testplayerstart"
-"origin" "2848 -576 528"
+"origin" "1048 -544 608"
+"angle" "90"
 }
