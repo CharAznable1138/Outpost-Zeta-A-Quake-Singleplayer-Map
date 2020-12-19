@@ -10600,7 +10600,7 @@
 "classname" "monster_army"
 "origin" "936 -1056 160"
 "angle" "270"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "computerenemies"
 }
 // entity 77
@@ -10608,7 +10608,7 @@
 "classname" "monster_army"
 "origin" "832 -1072 160"
 "angle" "270"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "computerenemies"
 }
 // entity 78
@@ -10616,7 +10616,7 @@
 "classname" "monster_army"
 "origin" "928 -968 160"
 "angle" "180"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "computerenemies"
 "target" "computerpath1"
 }
@@ -10625,7 +10625,7 @@
 "classname" "monster_army"
 "origin" "856 -1240 160"
 "angle" "270"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "computerenemies"
 }
 // entity 80
@@ -10633,7 +10633,7 @@
 "classname" "monster_army"
 "origin" "648 -1224 160"
 "angle" "270"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "computerenemies"
 }
 // entity 81
@@ -10791,7 +10791,7 @@
 "classname" "monster_enforcer"
 "origin" "2008 -744 608"
 "angle" "90"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "commandcenterwave1"
 "target" "cmdctrpath1"
 }
@@ -10800,7 +10800,7 @@
 "classname" "monster_enforcer"
 "origin" "1856 -256 608"
 "angle" "180"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "commandcenterwave1"
 "target" "commandcentercounter"
 }
@@ -10809,7 +10809,7 @@
 "classname" "monster_army"
 "origin" "1872 -832 608"
 "angle" "180"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "commandcenterwave1"
 "target" "commandcentercounter"
 }
@@ -10818,7 +10818,7 @@
 "classname" "monster_army"
 "origin" "1888 -568 608"
 "angle" "180"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "commandcenterwave1"
 "target" "commandcentercounter"
 }
@@ -10827,7 +10827,7 @@
 "classname" "monster_army"
 "origin" "1896 -448 608"
 "angle" "180"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "commandcenterwave1"
 "target" "commandcentercounter"
 }
@@ -10882,7 +10882,7 @@
 "classname" "monster_army"
 "origin" "880 88 520"
 "angle" "90"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "observatoryenemies"
 }
 // entity 114
@@ -10890,7 +10890,7 @@
 "classname" "monster_army"
 "origin" "1128 88 520"
 "angle" "90"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "observatoryenemies"
 }
 // entity 115
@@ -10898,7 +10898,7 @@
 "classname" "monster_army"
 "origin" "1008 88 520"
 "angle" "90"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "observatoryenemies"
 }
 // entity 116
@@ -10906,7 +10906,7 @@
 "classname" "monster_army"
 "origin" "1232 88 520"
 "angle" "90"
-"spawnflags" "1"
+"spawnflags" "0"
 "targetname" "observatoryenemies"
 }
 // entity 117
@@ -10961,10 +10961,10 @@
 // entity 122
 {
 "classname" "monster_ogre"
-"origin" "840 720 376"
-"angle" "0"
+"origin" "840 704 376"
+"angle" "270"
 "targetname" "riverenemies"
-"target" "rivercounter"
+"target" "riverpath1"
 }
 // entity 123
 {
@@ -11013,7 +11013,7 @@
 "origin" "-544 528 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 129
 {
@@ -11021,7 +11021,7 @@
 "origin" "-712 752 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 130
 {
@@ -11029,7 +11029,7 @@
 "origin" "-544 944 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 131
 {
@@ -11055,7 +11055,7 @@
 "origin" "-624 640 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 134
 {
@@ -11063,7 +11063,7 @@
 "origin" "-624 848 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 135
 {
@@ -11420,7 +11420,7 @@
 "origin" "-952 336 280"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 174
 {
@@ -11428,7 +11428,7 @@
 "origin" "-952 1184 280"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 175
 {
@@ -11436,7 +11436,7 @@
 "origin" "-856 680 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 176
 {
@@ -11444,7 +11444,7 @@
 "origin" "-856 840 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
-"spawnflags" "1"
+"spawnflags" "0"
 }
 // entity 177
 {
@@ -11452,6 +11452,7 @@
 "origin" "-640 344 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
+"spawnflags" "0"
 }
 // entity 178
 {
@@ -11459,6 +11460,7 @@
 "origin" "-640 1176 120"
 "targetname" "bossroomenemies"
 "target" "bosscounter"
+"spawnflags" "0"
 }
 // entity 179
 {
@@ -11761,7 +11763,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "127"
+"_tb_id" "361"
 // brush 0
 {
 ( 1408 -928 256 ) ( 1408 -928 257 ) ( 1408 -929 256 ) wall14_5 -32 -56 90 1 1
@@ -11813,7 +11815,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "128"
+"_tb_id" "362"
 // brush 0
 {
 ( 1408 -744 256 ) ( 1408 -744 257 ) ( 1408 -745 256 ) wall14_5 -32 16 90 1 1
@@ -11865,7 +11867,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "129"
+"_tb_id" "363"
 // brush 0
 {
 ( 1408 -560 256 ) ( 1408 -560 257 ) ( 1408 -561 256 ) wall14_5 -32 -40 90 1 1
@@ -11917,7 +11919,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "130"
+"_tb_id" "364"
 // brush 0
 {
 ( 1408 -376 256 ) ( 1408 -376 257 ) ( 1408 -377 256 ) wall14_5 -32 -32 90 1 1
@@ -11969,7 +11971,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "131"
+"_tb_id" "365"
 // brush 0
 {
 ( 2128 -1080 256 ) ( 2128 -1080 257 ) ( 2128 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12021,7 +12023,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "132"
+"_tb_id" "366"
 // brush 0
 {
 ( 2496 -1432 144 ) ( 2496 -1431 144 ) ( 2496 -1432 145 ) wall14_5 24 -56 180 1 -1
@@ -12073,7 +12075,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "133"
+"_tb_id" "367"
 // brush 0
 {
 ( 2496 -1248 144 ) ( 2496 -1247 144 ) ( 2496 -1248 145 ) wall14_5 16 -56 180 1 -1
@@ -12125,7 +12127,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "134"
+"_tb_id" "368"
 // brush 0
 {
 ( 2496 -1064 144 ) ( 2496 -1063 144 ) ( 2496 -1064 145 ) wall14_5 8 -56 180 1 -1
@@ -12177,7 +12179,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "135"
+"_tb_id" "369"
 // brush 0
 {
 ( 2496 -880 144 ) ( 2496 -879 144 ) ( 2496 -880 145 ) wall14_5 0 -56 180 1 -1
@@ -12229,7 +12231,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "136"
+"_tb_id" "370"
 // brush 0
 {
 ( 2128 -896 256 ) ( 2128 -896 257 ) ( 2128 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12281,7 +12283,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "137"
+"_tb_id" "371"
 // brush 0
 {
 ( 2128 -712 256 ) ( 2128 -712 257 ) ( 2128 -713 256 ) wall14_5 0 40 0 1 1
@@ -12333,7 +12335,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "138"
+"_tb_id" "372"
 // brush 0
 {
 ( 2128 -528 256 ) ( 2128 -528 257 ) ( 2128 -529 256 ) wall14_5 8 40 0 1 1
@@ -12385,7 +12387,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "139"
+"_tb_id" "373"
 // brush 0
 {
 ( 1776 -1264 256 ) ( 1776 -1264 257 ) ( 1776 -1265 256 ) wall14_5 40 40 0 1 1
@@ -12437,7 +12439,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "140"
+"_tb_id" "374"
 // brush 0
 {
 ( 1776 -1080 256 ) ( 1776 -1080 257 ) ( 1776 -1081 256 ) wall14_5 -16 40 0 1 1
@@ -12489,7 +12491,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "141"
+"_tb_id" "375"
 // brush 0
 {
 ( 1776 -896 256 ) ( 1776 -896 257 ) ( 1776 -897 256 ) wall14_5 -8 40 0 1 1
@@ -12541,7 +12543,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "142"
+"_tb_id" "376"
 // brush 0
 {
 ( 1776 -712 256 ) ( 1776 -712 257 ) ( 1776 -713 256 ) wall14_5 0 40 0 1 1
@@ -12593,7 +12595,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "empty cell"
-"_tb_id" "143"
+"_tb_id" "377"
 // brush 0
 {
 ( 1776 -528 256 ) ( 1776 -528 257 ) ( 1776 -529 256 ) wall14_5 8 40 0 1 1
@@ -13105,7 +13107,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "computer desk"
-"_tb_id" "144"
+"_tb_id" "378"
 // brush 0
 {
 ( 864 -1104 168 ) ( 864 -1136 168 ) ( 864 -1136 136 ) __TB_empty 40 0 0 1 1
@@ -15263,6 +15265,27 @@
 }
 // entity 476
 {
+"classname" "path_corner"
+"origin" "808 672 352"
+"targetname" "riverpath1"
+"target" "riverpath2"
+}
+// entity 477
+{
+"classname" "path_corner"
+"origin" "808 232 352"
+"targetname" "riverpath2"
+"target" "riverpath1"
+}
+// entity 478
+{
+"classname" "trigger_relay"
+"origin" "808 672 440"
+"targetname" "riverpath1"
+"target" "rivercounter"
+}
+// entity 479
+{
 "classname" "testplayerstart"
-"origin" "2880 -584 528"
+"origin" "2848 -576 528"
 }
