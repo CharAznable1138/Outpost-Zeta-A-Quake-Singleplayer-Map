@@ -1,7 +1,19 @@
 # Outpost Zeta: A Quake Singleplayer Map
-"Outpost Zeta" is the working title for a Quake singleplayer map I'm creating, which will see the player conduct a raid on a mysterious, sinister military base.
+"Outpost Zeta" is the title of my first Quake singleplayer map, which sees the player conduct a raid on a mysterious, sinister military base.
 
 
-The theme I have in mind is a military base, mostly grey-brown in color. To this end, I recently created a custom wad with all the textures I expect I'll need, using the id1 wad as my source. I grabbed about every texture I could find that fit the criteria of being both 1) military/tech-themed and 2) fitting nicely into a grey/brown color scheme. I made a few exceptions, namely grabbing some shoot switch textures that don't really fit the theme. I did this because I don't know of any equivalent shoot switch textures that do fit the theme and I want the option to hide easter eggs behind shoot switches. I'm also not 100% sure I'll actually use the sky, green slime or teleport textures but I want the options to have windows looking outside, toxic waste pools and/or teleport gates just in case.
+The theme of this map is a military base, mostly grey-brown in color. To this end, I began this project by creating a custom wad with all the textures I expected to need, using the id1 wad as my source.
+
+I then proceeded to create a bubble diagram for the purpose of planning out what became my 7 distinct areas and what kind of structure and combat flow each would entail.
+
+After that, I elaborated on two of my planned areas in the form of simple 2D topdown maps to get a more specific idea of what each area would look like.
+
+Then, I created the basic structure of my map in Trenchbrom using only textures from the "prototype" wad so as to keep the map relatively easy to change in this early state.
+
+Next, I proceeded to all entities (enemies, pickups, etc.) that I planned to include until each interactive element in the whole map was complete.
+
+Afterwards, I added proper textures and lighting to really make the map come to life. By this point, the project was nearing completion.
+
+Finally, based on some playtesting feedback (as well as a few tests of my own), I made a few finishing touches to the map and then recorded a complete gameplay walkthrough, which can now be viewed from this very repository.
 
 For more information, please check out the [project wiki](https://github.com/CharAznable1138/Outpost-Zeta-A-Quake-Singleplayer-Map/wiki).
