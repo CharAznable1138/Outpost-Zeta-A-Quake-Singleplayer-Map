@@ -7,6 +7,7 @@
 "worldtype" "2"
 "_gamma" "1.6"
 "message" "Outpost Zeta"
+"sounds" "04"
 // brush 0
 {
 ( -64 -64 -16 ) ( -64 -63 -16 ) ( -64 -64 -15 ) __TB_empty 0 0 0 1 1
