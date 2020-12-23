@@ -34,4 +34,11 @@ No doubt you'll face many battles along the way...
 
 ---
 
-(For more information on the production of this map, please check out the [project wiki](https://github.com/CharAznable1138/Outpost-Zeta-A-Quake-Singleplayer-Map/wiki).)
+For more information on the production of this map, please check out the [project wiki](https://github.com/CharAznable1138/Outpost-Zeta-A-Quake-Singleplayer-Map/wiki).
+
+---
+
+**Acknowledgements:**
+
+* Many thanks to the good people of the Quake Mapping Discord server who helped me through various pitfalls over the course of development.
+* Many thanks to [Dumptruck_Ds](https://www.youtube.com/channel/UCF502yOYr_olPaw6xgnYmaQ) for his Quake Mapping tutorial video series on Youtube, which helped me understand how to effectively make use of the Trenchbroom editor.
