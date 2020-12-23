@@ -15,5 +15,5 @@
 # if the files to be tracked are in subdirectories
 !*/a/b/file1.txt
 !*/a/b/c/*
-!QuakeDev/id1/maps/testmap.map
+!QuakeDev/id1/maps/outpostzeta.bsp
 !QuakeDev/id1/maps/outpostzeta.map
