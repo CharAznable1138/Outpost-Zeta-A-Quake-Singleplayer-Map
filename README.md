@@ -1,4 +1,4 @@
-# Outpost Zeta: A Quake Singleplayer Map
+# Outpost Zeta: A Quake (Vanilla) Singleplayer Map
 
 Congratulations, soldier. 
 
